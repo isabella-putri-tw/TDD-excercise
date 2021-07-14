@@ -4,7 +4,7 @@ import lift.constants.Direction
 import lift.exceptions.PassengerException
 import lift.model.Lift
 import lift.model.Passenger
-import org.junit.jupiter.api.Assertions.*
+import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 import kotlin.test.assertFailsWith
 
